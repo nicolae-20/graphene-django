@@ -1,4 +1,3 @@
-from ast import Del
 from graphene import DateTime, Int, List, Field, String
 from datetime import datetime
 from django.contrib.auth.models import User, Group
